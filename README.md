@@ -1,4 +1,4 @@
-# Comparative-Analysis-of-ML-algorithms-on-donors-choose-dataset  
+# Comparative-Analysis_of_ML-algorithms_on_donors-choose-dataset
 [![HitCount](http://hits.dwyl.com/rishang007/Comparative-Analysis-of-ML-algorithms-on-donors-choose-dataset.svg)](http://hits.dwyl.com/rishang007/Comparative-Analysis-of-ML-algorithms-on-donors-choose-dataset)
 
 
